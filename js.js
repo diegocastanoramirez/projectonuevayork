@@ -1,6 +1,5 @@
 /*
 7.	Utilizando el código anexo, poner el evento click al boton del menu movil para que puedan mostrarse los enlaces del menú.  código ejercicio
-Resultado.
 
 */
 
